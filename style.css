@@ -1,0 +1,6 @@
+.box-1 {
+    text-align:center;
+}
+.box-1 > table{
+    display: inline-block;
+}
